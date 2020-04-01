@@ -1,3 +1,34 @@
+# Fablab SUPSI website
+
+
+## Run the local website
+
+`$ gulp`
+
+
+## Env setup
+
+1. Install [Node.js](https://nodejs.org)
+2. Install gulp command line `$ sudo npm install --global gulp-cli`
+
+## Dev packages install
+
+package.json init: `$ npm init`
+
+Install packages: `$ npm install package --save-dev`
+
+Remove packages `$ npm uninstall package --save-dev`
+
+Install all the packages from the packages.json: `$ npm install`
+
+
+## Dev info
+
+The website uses Stylus as CSS language
+
+
+
+
 # Kirby Plainkit
 
 Kirby is a file-based CMS.
@@ -80,3 +111,6 @@ If you have ideas for new features, please submit a ticket in our ideas reposito
 
 © 2009-2019 Bastian Allgeier (Bastian Allgeier GmbH)
 <https://getkirby.com>
+
+
+

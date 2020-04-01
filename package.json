@@ -1,0 +1,35 @@
+{
+  "name": "fablab_supsi",
+  "version": "1.0.0",
+  "description": "Fablab SUPSI dev environment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marclura/fablab_supsi.git"
+  },
+  "author": "marco lurati",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marclura/fablab_supsi/issues"
+  },
+  "homepage": "https://github.com/marclura/fablab_supsi#readme",
+  "devDependencies": {
+    "autoprefixer": "^9.7.5",
+    "browser-sync": "^2.26.3",
+    "cssnano": "^4.1.10",
+    "gulp": "^4.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-connect-php": "^1.0.3",
+    "gulp-postcss": "^8.0.0",
+    "gulp-rename": "^1.4.0",
+    "gulp-sitemap": "^7.6.0",
+    "gulp-sourcemaps": "^2.6.5",
+    "gulp-stylus": "^2.7.0",
+    "gulp-uglify": "^3.0.2",
+    "path": "^0.12.7",
+    "postcss": "^7.0.27"
+  }
+}

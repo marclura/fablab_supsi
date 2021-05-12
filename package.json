@@ -30,6 +30,6 @@
     "gulp-stylus": "^2.7.0",
     "gulp-uglify": "^3.0.2",
     "path": "^0.12.7",
-    "postcss": "^7.0.27"
+    "postcss": "^8.2.10"
   }
 }
